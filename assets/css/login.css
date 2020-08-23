@@ -1,6 +1,7 @@
 body {
   font-family: "Karla", sans-serif;
   background-color: #fff;
+  overflow-x: hidden;
   min-height: 100vh; }
 
 .brand-wrapper {
