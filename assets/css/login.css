@@ -1,9 +1,11 @@
 body {
   font-family: "Karla", sans-serif;
   background-color: #fff;
-  overflow-x: hidden;
+  overflow-x: hidden !important;
   min-height: 100vh; }
-
+html{
+overflow-x: hidden !important;
+}
 .brand-wrapper {
   padding-top: 8%;
 }
