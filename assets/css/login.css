@@ -3,13 +3,13 @@ body {
   background-color: #fff;
   overflow-x: hidden !important;
   min-height: 100vh; }
-html{
-overflow-x: hidden !important;
-}
+
 .brand-wrapper {
   padding-top: 8%;
 }
-  
+html{
+  overflow-x: hidden !important;
+}
 .brand-wrapper img{
   width: 400px;
   max-width: 100%;
